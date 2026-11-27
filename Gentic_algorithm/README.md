@@ -267,5 +267,5 @@ plt.grid(True)
 plt.legend()
 
 plt.show()
-<img width="582" height="591" alt="output" src="https://github.com/user-attachments/assets/d3899a05-a758-44e0-990d-c6da130ec6df" />
+<img width="1352" height="753" alt="Screenshot 2026-11-27 171718" src="https://github.com/user-attachments/assets/6ca214cd-bdd9-4e7e-ae27-668a44683cc0" />
 
