@@ -2,7 +2,7 @@
 import random<img width="1388" height="757" alt="Screenshot 2026-11-27 104612" src="https://github.com/user-attachments/assets/4b33197f-3780-4d92-bcec-ed0010048b71" />
 
 import numpy as np
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt 
 
 # --------------------------------------------------
 # PROBLEM PARAMETERS
